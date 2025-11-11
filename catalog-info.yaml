@@ -5,6 +5,9 @@ metadata:
   description: Microfrontend para la selección de color.
   annotations:
     github.com/project-slug: julioraulcarranzaruiz/learningapp
+  tags:
+    - javascript
+  
 spec:
   type: website
   lifecycle: experimental
