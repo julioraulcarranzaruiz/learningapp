@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mf-colorpicker
+  description: Microfrontend para la selección de color.
+  annotations:
+    github.com/project-slug: julioraulcarranzaruiz/mf-colorpicker
+spec:
+  type: website
+  lifecycle: experimental
+  owner: julioraul.carranza
