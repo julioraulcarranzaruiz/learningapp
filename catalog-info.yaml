@@ -10,5 +10,7 @@ metadata:
   
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: julioraul.carranza
+  system: canales-digitales
+  domain: negocio-fiduciarios
