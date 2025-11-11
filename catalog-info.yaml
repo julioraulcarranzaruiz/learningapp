@@ -4,7 +4,7 @@ metadata:
   name: mf-colorpicker
   description: Microfrontend para la selección de color.
   annotations:
-    github.com/project-slug: julioraulcarranzaruiz/mf-colorpicker
+    github.com/project-slug: julioraulcarranzaruiz/learningapp
 spec:
   type: website
   lifecycle: experimental
