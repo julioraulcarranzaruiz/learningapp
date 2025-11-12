@@ -5,6 +5,7 @@ metadata:
   description: Microfrontend para la selección de color.
   annotations:
     github.com/project-slug: julioraulcarranzaruiz/learningapp
+    backstage.io/techdocs-ref: dir:.
   tags:
     - javascript
 
