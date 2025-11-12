@@ -12,5 +12,15 @@ spec:
   type: website
   lifecycle: production
   owner: julioraul.carranza
-  system: canales-digitales
-  domain: negocio-fiduciarios
+  system: transaccionales
+  domain: transaccionales
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+    name: transaccionales
+    description: Sistema Transaccionales
+spec:
+    owner: julioraul.carranza
+    domain: transaccionales
