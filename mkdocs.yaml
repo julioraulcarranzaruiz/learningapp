@@ -1,0 +1,13 @@
+site_name: 'mf-color'
+site_description: 'Descripcion de la documentacion'
+repo_url: https://github.com/julioraulcarranzaruiz/learningapp
+edit_uri: edit/main/docs
+
+plugins: 
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting started: 'docs/index.md'
+    
+    
