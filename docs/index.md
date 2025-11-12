@@ -2,4 +2,4 @@
 
 Probando la documentacion como codigo todo en un mismo portal
 
-- `Pasos para iniciar una aplicaciom
+- `Pasos para iniciar una aplicacion
